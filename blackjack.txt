@@ -1,0 +1,3 @@
+Graham : 2500
+Test : 900
+poopy : 1000 
